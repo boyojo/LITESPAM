@@ -76,7 +76,7 @@ then
 clear
 toilet -f mono9 -F gay "Toked"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
-echo "\033[31;1mBatas:""\033[37;1m1 Kali"
+echo "\033[31;1mBatas:""\033[37;1m50 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
