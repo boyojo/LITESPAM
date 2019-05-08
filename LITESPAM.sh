@@ -63,7 +63,7 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mWong Gendeng "
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -76,7 +76,7 @@ then
 clear
 toilet -f mono9 -F gay "Toked"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
-echo "\033[31;1mBatas:""\033[37;1m1 Kali"
+echo "\033[31;1mBatas:""\033[37;1m50 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
@@ -124,7 +124,7 @@ then
 clear
 toilet -f slant --gay "SMSID"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1m5"
+echo "\033[31;1mBatas:""\033[37;1m50"
 echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
 echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
 echo
